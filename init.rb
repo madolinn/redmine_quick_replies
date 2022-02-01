@@ -7,7 +7,7 @@ Redmine::Plugin.register :redmine_quick_replies do
   author 'eXolnet'
   description 'Save time by creating quick replies that could be reused in any WYSIWYG editors.'
   version REDMINE_QUICK_REPLIES_VERSION
-  url 'https://github.com/eXolnet/redmine_quick_replies'
+  url 'https://github.com/madolinn/redmine_quick_replies'
   author_url 'https://www.exolnet.com'
 
   requires_redmine :version_or_higher => '3.4'
